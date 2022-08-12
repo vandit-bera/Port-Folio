@@ -20,7 +20,7 @@
 
 ### 👇Live Demo
 
-[Link](https://github.com/vandit-bera/Port-Folio)
+[Link](https://vb-port-folio.netlify.app/)
 
 ---
 
