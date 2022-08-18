@@ -21,6 +21,7 @@
     border: 1px solid #ddd;
     background-color: rgb(236, 241, 250);
     border-radius: 5px;
+    margin: 10px 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -30,6 +31,7 @@
 
 .blog-img img {
     max-width: 100%;
+    
     display: block;
     transition: all 0.5s ease;
 }
